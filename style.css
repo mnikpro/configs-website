@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/background.png);
+    background-position: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.Cul {
+    list-style-type: none;
+}
+.hive {
+    margin-left: 911px;
+    margin-top: 126px;
+}
+
+.ng {
+margin-left: 500px;
+margin-top: -180px;
+}
+
+.cc {
+    margin-left: 1175px;
+    margin-top: -92px;
+}
+
+
+.discord-button {
+    background-color: #7289DA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Roboto Medium', sans-serif;
+    border-radius: 15px;
+    margin-left: 816px;
+    margin-top: 415px;
+}
