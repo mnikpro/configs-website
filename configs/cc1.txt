@@ -1,0 +1,778 @@
+{
+    "Aimbot": {
+        "Angle": 180.0,
+        "Hold": true,
+        "Lock": false,
+        "Range": 8.0,
+        "Speed": 90.0,
+        "Vertical": true,
+        "enabled": false
+    },
+    "Ambience": {
+        "Time": 0.9930185079574585,
+        "Weather": 0,
+        "enabled": true
+    },
+    "Animations": {
+        "Mode": 1,
+        "Reset": false,
+        "SmoothSwing": true,
+        "Swing": true,
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "enabled": true
+    },
+    "AntiBot": {
+        "EntityID Check": true,
+        "Extra Check": false,
+        "Hitbox Check": true,
+        "Invisible Check": true,
+        "Mode": 1,
+        "Other Check": true,
+        "enabled": true
+    },
+    "AntiImmobile": {
+        "enabled": false
+    },
+    "AntiVoid": {
+        "Distance": 4,
+        "Mode": 0,
+        "VoidCheck": true,
+        "enabled": false
+    },
+    "ArrayList": {
+        "Mode": 1,
+        "Modes": true,
+        "Opacity": 115,
+        "Spacing": 0.0,
+        "enabled": true
+    },
+    "Aura": {
+        "APS": 11,
+        "Click": false,
+        "Hold": false,
+        "Mobs": false,
+        "Multi": false,
+        "Random": 1.5,
+        "Range": 8.0,
+        "Rotations": 0,
+        "Strafe": false,
+        "Visualize": true,
+        "enabled": false
+    },
+    "Auth": {
+        "enabled": false
+    },
+    "AutoClicker": {
+        "Hold": true,
+        "MaxCPS": 20,
+        "MinCPS": 20,
+        "Weapons": false,
+        "enabled": false
+    },
+    "AutoGG": {
+        "Server": 0,
+        "enabled": true
+    },
+    "AutoHive": {
+        "AutoLootBox": false,
+        "AutoQueue": true,
+        "enabled": true
+    },
+    "AutoPlay": {
+        "Distance": 1.100000023841858,
+        "Mode": 0,
+        "Rotations": 0,
+        "Timer": 20,
+        "enabled": false
+    },
+    "AutoPot": {
+        "Delay": 1,
+        "Health": 14,
+        "enabled": true
+    },
+    "AutoTotem": {
+        "Force": false,
+        "enabled": false
+    },
+    "Blink": {
+        "enabled": false
+    },
+    "BlockESP": {
+        "Coal": false,
+        "Diamonds": false,
+        "Emeralds": false,
+        "Gold": false,
+        "Iron": false,
+        "Range": 5,
+        "Redstone": false,
+        "Spawners": false,
+        "Width": 0.5,
+        "enabled": false
+    },
+    "BlockOutline": {
+        "Blue": 1.0,
+        "Green": 1.0,
+        "Rainbow": false,
+        "Red": 1.0,
+        "Width": 0.5,
+        "enabled": false
+    },
+    "BlockReach": {
+        "Reach": 9,
+        "enabled": true
+    },
+    "BreadCrumbs": {
+        "Clear": false,
+        "Mode": 0,
+        "enabled": false
+    },
+    "Breaker": {
+        "Beds": false,
+        "Cakes": true,
+        "Eggs": false,
+        "Range": 5,
+        "Rotations": 1,
+        "Swing": true,
+        "Treasures": true,
+        "enabled": false
+    },
+    "Camera": {
+        "Fullbright": true,
+        "Intensity": -7,
+        "NoHurtcam": false,
+        "ViewClip": false,
+        "enabled": true
+    },
+    "ChatBypass": {
+        "enabled": false
+    },
+    "ChestESP": {
+        "enabled": false
+    },
+    "ChestStealer": {
+        "Delay": 0,
+        "Dump": false,
+        "Enhanced": false,
+        "enabled": true
+    },
+    "ClickGUI": {
+        "Blue": 255.0,
+        "Blue2": 0.0,
+        "CFont": false,
+        "CategoryColors": true,
+        "Color": 0,
+        "Green": 255.0,
+        "Green2": 0.0,
+        "Opacity": 175,
+        "Red": 255.0,
+        "Red2": 0.0,
+        "Sounds": true,
+        "Theme": 2,
+        "ToolTips": false,
+        "enabled": false
+    },
+    "ClickGui": {
+        "Blue": 255.0,
+        "Blue2": 255.0,
+        "CFont": false,
+        "CategoryColors": true,
+        "Color": 0,
+        "Green": 255.0,
+        "Green2": 255.0,
+        "Opacity": 255,
+        "Red": 255.0,
+        "Red2": 255.0,
+        "Sounds": true,
+        "Theme": 1,
+        "ToolTips": true,
+        "enabled": false
+    },
+    "ClickGuiMenu": {
+        "Combat": {
+            "isExtended": true,
+            "pos": {
+                "x": 91.4046859741211,
+                "y": 26.95440101623535
+            }
+        },
+        "Exploit": {
+            "isExtended": true,
+            "pos": {
+                "x": 571.350830078125,
+                "y": 26.95440101623535
+            }
+        },
+        "Movement": {
+            "isExtended": true,
+            "pos": {
+                "x": 338.6930847167969,
+                "y": 26.95440101623535
+            }
+        },
+        "Other": {
+            "isExtended": true,
+            "pos": {
+                "x": 689.2703247070313,
+                "y": 26.95440101623535
+            }
+        },
+        "Player": {
+            "isExtended": true,
+            "pos": {
+                "x": 460.4417419433594,
+                "y": 26.95440101623535
+            }
+        },
+        "Visual": {
+            "isExtended": true,
+            "pos": {
+                "x": 211.56402587890625,
+                "y": 26.95440101623535
+            }
+        }
+    },
+    "ClickTP": {
+        "Hand": true,
+        "enabled": false
+    },
+    "ConfigMenu": {
+        "enabled": false
+    },
+    "Crasher": {
+        "Mode": 0,
+        "Packets": 1,
+        "enabled": false
+    },
+    "Criticals": {
+        "Hurttime": true,
+        "Mode": 0,
+        "enabled": false
+    },
+    "CrystalAura": {
+        "AutoPlace": true,
+        "CrystalRange": 10,
+        "PlaceRange": 3,
+        "PlayerRange": 5,
+        "Range": 10,
+        "Switch": true,
+        "enabled": false
+    },
+    "CustomSky": {
+        "Blue": 0.31922563910484314,
+        "Green": 0.31922563910484314,
+        "Rainbow": false,
+        "Red": 0.3153240382671356,
+        "enabled": true
+    },
+    "DeathEffects": {
+        "Mode": 0,
+        "enabled": false
+    },
+    "DebugMenu": {
+        "enabled": false
+    },
+    "Derp": {
+        "Delay": 0,
+        "Headless": false,
+        "Silent": false,
+        "Speed": 1.0,
+        "Spin": false,
+        "Twerk": false,
+        "enabled": false
+    },
+    "Disabler": {
+        "Mode": 1,
+        "enabled": true
+    },
+    "ESP": {
+        "Mode": 0,
+        "Tracers": false,
+        "enabled": true
+    },
+    "FallSave": {
+        "FallDistance": 3.0,
+        "Jump": false,
+        "Timer": true,
+        "TimerValue": 15,
+        "enabled": false
+    },
+    "FastPlace": {
+        "Delay": 10,
+        "enabled": false
+    },
+    "FastStop": {
+        "enabled": true
+    },
+    "Flight": {
+        "Boost": false,
+        "Damage": true,
+        "Duration": 0.969374418258667,
+        "Mode": 5,
+        "Speed": 1.4496866464614868,
+        "ViewBobbing": false,
+        "enabled": false,
+        "value": 0.0
+    },
+    "FollowPath": {
+        "enabled": false
+    },
+    "FreeTP": {
+        "Speed": 3.870877742767334,
+        "enabled": false
+    },
+    "Freecam": {
+        "CancelPackets": false,
+        "Speed": 0.5,
+        "enabled": false
+    },
+    "Freelook": {
+        "enabled": false
+    },
+    "HUD": {
+        "ArmorHUD": false,
+        "Color": 2,
+        "Info": true,
+        "Opacity": 150,
+        "Release": true,
+        "Saturation": 1.0,
+        "WaveBlue": 255.0,
+        "WaveBlue2": 32.0,
+        "WaveGreen": 255.0,
+        "WaveGreen2": 32.0,
+        "WaveRed": 255.0,
+        "WaveRed2": 32.0,
+        "enabled": true
+    },
+    "HackerDetector": {
+        "Derp Check": true,
+        "Immobile Check": true,
+        "Messages": 0,
+        "Sensitivity": 0,
+        "Speed Check": true,
+        "enabled": true
+    },
+    "HitEffects": {
+        "Sound": 0,
+        "Volume": 0.800000011920929,
+        "enabled": false
+    },
+    "HitSounds": {
+        "Mobs": true,
+        "Sound": 0,
+        "Volume": 1.0,
+        "enabled": true
+    },
+    "Hitbox": {
+        "Height": 3.0,
+        "Width": 4.0,
+        "enabled": false
+    },
+    "HiveFly": {
+        "Clip Height": 0.0,
+        "Clip Up": true,
+        "enabled": false
+    },
+    "HudEditorMenu": {
+        "ArmorHud": {
+            "pos": {
+                "x": 643.5093994140625,
+                "y": 425.6666564941406
+            }
+        },
+        "ArrayList": {
+            "pos": {
+                "x": 850.3305053710938,
+                "y": 20.666641235351563
+            }
+        },
+        "BlockCount": {
+            "pos": {
+                "x": 418.5484924316406,
+                "y": 216.83335876464844
+            }
+        },
+        "FPS": {
+            "pos": {
+                "x": 2.6687488555908203,
+                "y": 279.49993896484375
+            }
+        },
+        "PlayerList": {
+            "pos": {
+                "x": 368.9543762207031,
+                "y": 37.00000762939453
+            }
+        },
+        "Position": {
+            "pos": {
+                "x": 2.668750762939453,
+                "y": 313.0
+            }
+        },
+        "Release": {
+            "pos": {
+                "x": 95.07421875,
+                "y": 2.0000009536743164
+            }
+        },
+        "SessionInfo": {
+            "pos": {
+                "x": 6.33828067779541,
+                "y": 137.66668701171875
+            }
+        },
+        "Speed": {
+            "pos": {
+                "x": 2.668750762939453,
+                "y": 295.9999694824219
+            }
+        },
+        "TargetHud": {
+            "pos": {
+                "x": 854.0,
+                "y": 336.0
+            }
+        },
+        "Watermark": {
+            "client": {
+                "name": "Aids"
+            },
+            "pos": {
+                "x": 5.00311279296875,
+                "y": 6.999985694885254
+            }
+        }
+    },
+    "Interface": {
+        "ArmorHUD": true,
+        "Blue": 0.0,
+        "Blue2": 0.0,
+        "Color": 1,
+        "Green": 0.0,
+        "Green2": 0.0,
+        "Info": true,
+        "Opacity": 150,
+        "Red": 255.0,
+        "Red2": 65.97528076171875,
+        "Release": false,
+        "Saturation": 1.0,
+        "enabled": true
+    },
+    "InvManager": {
+        "AutoArmor": true,
+        "Axe": 3,
+        "Blocks": 9,
+        "Clean": true,
+        "Delay": 0,
+        "Mode": 1,
+        "Pickaxe": 2,
+        "Sort": true,
+        "Swing": false,
+        "Sword": 1,
+        "enabled": true
+    },
+    "InvMove": {
+        "enabled": false
+    },
+    "ItemTP": {
+        "Delay": 0,
+        "Range": 20,
+        "enabled": false
+    },
+    "Jesus": {
+        "Height": 0.5,
+        "Mode": 0,
+        "enabled": false
+    },
+    "KillInsults": {
+        "Mode": 0,
+        "enabled": true
+    },
+    "Killaura": {
+        "Click": true,
+        "Hold": false,
+        "MaxAPS": 14,
+        "MinAPS": 11,
+        "Mobs": false,
+        "Mode": 0,
+        "Random": 1.054276466369629,
+        "Range": 8.0,
+        "Rotations": 0,
+        "Strafe": true,
+        "Visualize": true,
+        "enabled": false
+    },
+    "Killsults": {
+        "Mode": 0,
+        "enabled": false
+    },
+    "KnockbackFly": {
+        "EnableGold": false,
+        "FlySpeed": 1.0,
+        "MovingY-Vel": 0.0,
+        "NoStopFly": false,
+        "NoVelocity": true,
+        "ResetValues": false,
+        "StandingY-Vel": 0.0,
+        "VanillaFly": false,
+        "enabled": false
+    },
+    "Logger": {
+        "enabled": false
+    },
+    "LongJump": {
+        "Damage": true,
+        "Height": 0.20000000298023224,
+        "Mode": 3,
+        "Speed": 1.9525017738342285,
+        "enabled": false
+    },
+    "MCF": {
+        "enabled": true
+    },
+    "NameTags": {
+        "Armor": true,
+        "Opacity": 150,
+        "Underline": false,
+        "enabled": false
+    },
+    "NoFall": {
+        "Distance": 3,
+        "Mode": 0,
+        "enabled": false
+    },
+    "NoJumpDelay": {
+        "Blink": false,
+        "Delay": 0,
+        "Timer": 20,
+        "enabled": false
+    },
+    "NoLagBack": {
+        "enabled": false
+    },
+    "NoPacket": {
+        "enabled": false
+    },
+    "NoRender": {
+        "BlockEntities": false,
+        "Entities": false,
+        "Particles": true,
+        "enabled": false
+    },
+    "NoRotate": {
+        "Body": true,
+        "Mode": 0,
+        "enabled": false
+    },
+    "NoSlow": {
+        "Mode": 0,
+        "NoWeb": true,
+        "enabled": false
+    },
+    "NoSwing": {
+        "enabled": false
+    },
+    "Notifications": {
+        "Opacity": 150,
+        "ShowToggle": true,
+        "enabled": true
+    },
+    "Nuker": {
+        "Down": 4,
+        "Radius": 4,
+        "Up": 4,
+        "VeinMiner": false,
+        "enabled": false
+    },
+    "PacketMultiplier": {
+        "Amount": 2,
+        "enabled": false
+    },
+    "Phase": {
+        "Mode": 1,
+        "Vertical": false,
+        "enabled": false
+    },
+    "PlayerList": {
+        "Hold": true,
+        "Theme": 1,
+        "enabled": false
+    },
+    "Radar": {
+        "Grid": true,
+        "Opacity": 0,
+        "Zoom": 0.699999988079071,
+        "enabled": false
+    },
+    "Reach": {
+        "Amount": 3.3514254093170166,
+        "enabled": false
+    },
+    "Regen": {
+        "Mode": 1,
+        "Swing": false,
+        "enabled": false
+    },
+    "SafeWalk": {
+        "enabled": false
+    },
+    "Scaffold": {
+        "BlockCount": true,
+        "Down": 0,
+        "Extend": 0,
+        "LockY": true,
+        "Rotations": 0,
+        "Spoof": true,
+        "Sprint": true,
+        "Swing": false,
+        "Timer": 20,
+        "Tower": 3,
+        "TowerTimer": 20,
+        "enabled": false
+    },
+    "SessionInfo": {
+        "Opacity": 149,
+        "Outline": false,
+        "Theme": 0,
+        "enabled": true
+    },
+    "Sneak": {
+        "enabled": false
+    },
+    "Spammer": {
+        "Length": 8,
+        "bypass": true,
+        "delay": 2,
+        "enabled": false
+    },
+    "Speed": {
+        "Duration": 0.9972708225250244,
+        "Height": 0.4000000059604645,
+        "Mode": 5,
+        "Speed": 0.8793231844902039,
+        "SpeedMax": 1.0825445652008057,
+        "SpeedMin": 1.1137580871582031,
+        "Timer": 24,
+        "enabled": false
+    },
+    "SpeedMine": {
+        "Instant": false,
+        "Speed": 20.0,
+        "enabled": true
+    },
+    "Spider": {
+        "Speed": 0.6000000238418579,
+        "enabled": false
+    },
+    "Sprint": {
+        "enabled": true
+    },
+    "Step": {
+        "Height": 1.5,
+        "Mode": 0,
+        "Reverse": false,
+        "Timer": 20,
+        "enabled": false
+    },
+    "Switcher": {
+        "AutoSwitch": false,
+        "DoubleSwitch": false,
+        "Slots": 8,
+        "enabled": false
+    },
+    "TPAura": {
+        "Behind": false,
+        "Delay": 0,
+        "Distance": 3.5,
+        "Mode": 0,
+        "Multi": false,
+        "Range": 250.0,
+        "Visualize": true,
+        "enabled": false
+    },
+    "TargetHUD": {
+        "Items": false,
+        "Mode": 0,
+        "Opacity": 100,
+        "enabled": true
+    },
+    "TargetStrafe": {
+        "Controllable": true,
+        "EdgeCheck": true,
+        "Mode": 0,
+        "OnKey": true,
+        "Radius": 1.3051707744598389,
+        "Speed": 0.5,
+        "Visualize": true,
+        "enabled": false
+    },
+    "Teams": {
+        "Allied": false,
+        "Color": true,
+        "enabled": false
+    },
+    "TestModule": {
+        "AutoDisable": false,
+        "Blink": false,
+        "CopyChat": false,
+        "DebugInfo": true,
+        "Kow": false,
+        "KowFloat": 2.0,
+        "Notification": false,
+        "SliderX": 0.0,
+        "SliderX2": 0.0,
+        "SliderY": 0.0,
+        "SliderY2": 0.0,
+        "SliderZ": 0.0,
+        "SliderZ2": 0.0,
+        "Test": true,
+        "TestSound": false,
+        "enabled": false
+    },
+    "Timer": {
+        "TPS": 44,
+        "enabled": false
+    },
+    "ToggleSounds": {
+        "Sound": 0,
+        "Volume": 1.0,
+        "enabled": true
+    },
+    "TriggerBot": {
+        "APS": 11,
+        "enabled": false
+    },
+    "Velocity": {
+        "Height": 0.0,
+        "Linear": 0.0,
+        "enabled": true
+    },
+    "Watermark": {
+        "Gradient": true,
+        "Opacity": 150,
+        "Theme": 0,
+        "enabled": true
+    },
+    "Waypoints": {
+        "Coordinates": false,
+        "Interdimensional": true,
+        "Size": 0.6000000238418579,
+        "enabled": false
+    },
+    "XP": {
+        "Amount": 148,
+        "Levels": true,
+        "enabled": false
+    },
+    "Xray": {
+        "enabled": false
+    },
+    "Zoom": {
+        "Strength": 0.5,
+        "enabled": false
+    },
+    "from": "PacketClient",
+    "prefix": "."
+}
