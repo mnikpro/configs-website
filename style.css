@@ -1,8 +1,6 @@
-
-
 body {
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   background-image: url(images/background.png);
   background-position: center;
   background-size: cover;
@@ -28,6 +26,7 @@ body {
   position: fixed;
   margin-left: 20%;
 }
+
 .configs {
   position: fixed;
   margin-top: 6%;
@@ -54,7 +53,6 @@ body {
   color: white;
   transition: 0.2s;
 }
-
 
 .title {
     position: fixed;
